@@ -5,7 +5,7 @@
 
 
 ###### - 🔭 I’m currently working on multiple CTFs along with my team
-###### - :books: I’m currently learning for the **CompTIA Security+** exam
+###### - :books: I’m currently learning for the **eCDFP** exam
 ###### - 👯 I’m looking to collaborate on different CTFs
 ###### - 💬 Ask me about everything related to cyber security
 ###### - 📫 How to reach me: follow me on [Twitter](https://twitter.com/yakuhitoJr)
