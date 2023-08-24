@@ -4,8 +4,8 @@
 ## Gamer/Cyber security enthusiast:computer:/Night owl:first_quarter_moon_with_face:/ AC/DC fan for life:zap:
 
 
-###### - 🔭 I’m currently working on multiple CTFs along with my team
-###### - :books: I’m currently learning for the **eCDFP** exam
+###### - 🔭 I’m currently working as a Pentester, looking for a competitive CTF Team
+###### - :books: I’m currently learning for the **BTL1** exam
 ###### - 👯 I’m looking to collaborate on different CTFs
 ###### - 💬 Ask me about everything related to cyber security
 ###### - 📫 How to reach me: follow me on [Twitter](https://twitter.com/yakuhitoJr)
