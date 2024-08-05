@@ -5,7 +5,7 @@
 
 
 ###### - 🔭 I’m currently working as a Pentester, looking for a competitive CTF Team
-###### - :books: I’m currently learning for the **PJPT** exam
+###### - :books: I’m currently learning for the **PNPT** exam
 ###### - 👯 I’m looking to collaborate on different CTFs
 ###### - 💬 Ask me about everything related to cyber security
 ###### - 📫 How to reach me: follow me on [Twitter](https://twitter.com/yakuhitoJr)
