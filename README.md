@@ -1,7 +1,7 @@
 # Hey there ! :wave: I'm Pligonstein(Plig)
 
 
-## Gamer/Cyber security enthusiast:computer:/Night owl:first_quarter_moon_with_face:/ AC/DC fan for life:zap:
+## Gamer/Cyber security enthusiast :computer: /Night owl :first_quarter_moon_with_face: / AC/DC fan for life :zap:
 
 
 ###### - 🔭 I’m currently working as a Pentester, looking for a competitive CTF Team
